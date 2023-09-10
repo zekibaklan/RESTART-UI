@@ -1,8 +1,7 @@
 # RESTART
 
-What i use
+What i used
 - [ ] ADVANCED APP DESIGN
 - [ ] COMPLEX SWIFTUI GESTURES
 - [ ] PARALLAX EFFECT
-
-![banner resmi](https://r.resimlink.com/mBf49RrJ0e.jpeg)<br /><br />
+![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
